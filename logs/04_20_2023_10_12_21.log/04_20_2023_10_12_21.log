@@ -1,8 +1,0 @@
-[ 2023-04-20 10:12:23,969 ] 224 werkzeug - WARNING -  * Debugger is active!
-[ 2023-04-20 10:12:23,982 ] 224 werkzeug - INFO -  * Debugger PIN: 176-816-806
-[ 2023-04-20 10:20:15,445 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Apr/2023 10:20:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
-[ 2023-04-20 10:20:15,576 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Apr/2023 10:20:15] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
-[ 2023-04-20 10:20:15,595 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Apr/2023 10:20:15] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
-[ 2023-04-20 10:20:15,672 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Apr/2023 10:20:15] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-[ 2023-04-20 10:20:15,690 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Apr/2023 10:20:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-[ 2023-04-20 10:48:20,432 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\hp\\OneDrive\\Desktop\\ML_project\\src\\utils.py', reloading

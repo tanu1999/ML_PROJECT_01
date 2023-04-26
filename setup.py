@@ -16,10 +16,10 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='RegressorProject',
+    name='Regressor_Project',
     version='0.0.1',
-    author='harish',
-    author_email='harishvangapandu24@gmail.com',
+    author='Ayush',
+    author_email='ayush08.pujari@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
 )
